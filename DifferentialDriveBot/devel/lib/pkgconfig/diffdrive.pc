@@ -1,0 +1,8 @@
+prefix=/home/pranshu2/URDF/DifferentialDriveBot/devel
+
+Name: diffdrive
+Description: Description of diffdrive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
